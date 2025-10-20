@@ -70,15 +70,15 @@
     "image": "/profile.svg",
     "stats": [
       {
-        "value": "2+",
+        "value": "1+",
         "label": "Years Experience"
       },
       {
-        "value": "3",
+        "value": "5",
         "label": "Certifications"
       },
       {
-        "value": "2",
+        "value": "7",
         "label": "Projects Completed"
       }
     ]
