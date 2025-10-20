@@ -1,0 +1,247 @@
+{
+  "personal": {
+    "name": "Md. Shifat Bin Reza",
+    "role": "Software Engineer",
+    "roles": [
+      "Software Engineer",
+      "Full-stack Developer",
+      "Web Developer",
+      "JavaScript Developer",
+      "React Developer",
+      "Node.js Developer"
+    ],
+    "email": "shifatbinreza2@gmail.com",
+    "phone": "+880 1794775275",
+    "location": "Dhaka, Bangladesh",
+    "availability": "Available for new opportunities",
+    "resumeUrl": "/resume.pdf"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "description": "A passionate Software Engineer with experience in building and maintaining web applications. Specialized in JavaScript, React.js, and Node.js.",
+    "specializations": ["React.js", "Node.js", "Full-stack Development"],
+    "techStack": [
+      "JavaScript",
+      "TypeScript",
+      "Python",
+      "React.js",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "AWS"
+    ],
+    "buttons": {
+      "primary": {
+        "text": "View My Projects",
+        "href": "#projects"
+      },
+      "secondary": {
+        "text": "Download Resume",
+        "href": "/resume.pdf"
+      }
+    }
+  },
+  "social": {
+    "github": "https://github.com/shifat97",
+    "linkedin": "https://www.linkedin.com/in/shifat2/",
+    "twitter": "",
+    "email": "shifatbinreza2@gmail.com"
+  },
+  "navigation": [
+    { "name": "Home", "href": "#home" },
+    { "name": "About", "href": "#about" },
+    { "name": "Experience", "href": "#experience" },
+    { "name": "Projects", "href": "#projects" },
+    { "name": "Skills", "href": "#skills" },
+    { "name": "Education", "href": "#education" },
+    { "name": "Contact", "href": "#contact" }
+  ],
+  "about": {
+    "title": "About Me",
+    "subtitle": "Software Engineer",
+    "description": "I am a Software Engineer with a passion for building and maintaining web applications. I have experience with the MERN stack and I am always looking for new challenges and opportunities to learn and grow.",
+    "highlights": [
+      "Experience in Full-stack Development",
+      "Proficient in JavaScript, React.js, and Node.js",
+      "Experience with both SQL and NoSQL databases",
+      "Familiar with cloud technologies like AWS and Docker"
+    ],
+    "image": "/profile.svg",
+    "stats": [
+      {
+        "value": "2+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "3",
+        "label": "Certifications"
+      },
+      {
+        "value": "2",
+        "label": "Projects Completed"
+      }
+    ]
+  },
+  "experience": [
+    {
+      "role": "Software Engineer",
+      "company": "BongoDev",
+      "location": "Dhaka, Bangladesh",
+      "duration": "03/2025 – Present",
+      "responsibilities": [
+        "Maintain and enhance the company’s EdTech web application to ensure high performance and reliability.",
+        "Implement new features and functionality based on product requirements and user feedback.",
+        "Identify, troubleshoot, and resolve software bugs to improve application stability and user experience.",
+        "Manage and optimize databases to ensure the accuracy and integrity of student records.",
+        "Provide technical assistance to students, guiding them on course-related projects and problem-solving."
+      ],
+      "technologies": ["React.js", "Node.js", "MongoDB", "Express.js"]
+    },
+    {
+      "role": "Full-stack Developer (Intern)",
+      "company": "Sharetasking",
+      "location": "Arizona, United States (Remote)",
+      "duration": "08/2025 – 09/2025",
+      "responsibilities": [
+        "Contributed to the design and development of an AI-powered task management and work planning agent, enhancing productivity and automation.",
+        "Conducted R&D to optimize AI prompts, improving system efficiency and output quality.",
+        "Developed and integrated new features into the AI agent platform, including third-party service integrations."
+      ],
+      "technologies": ["React.js", "Node.js", "MongoDB", "Express.js"]
+    },
+    {
+      "role": "Software QA Intern",
+      "company": "Creative Soft Technology",
+      "location": "Dhaka, Bangladesh",
+      "duration": "09/2023 – 12/2023",
+      "responsibilities": [
+        "Performed manual testing on web and mobile applications to ensure product functionality, usability, and quality.",
+        "Assisted in API testing using tools such as Postman, validating endpoints, request/response handling, and data flow.",
+        "Collaborated with the QA team to identify, document, and track bugs, ensuring timely resolution.",
+        "Enhanced teamwork and coordination by actively contributing to group discussions, sprint planning, and task execution."
+      ],
+      "technologies": ["Manual Testing", "API Testing", "Postman"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Career Sync",
+      "description": "Manage your company jobs efficiently - Developed an open-source platform using TypeScript, Node.js, and Express to manage company job postings. Built an admin site for creating, updating, and organizing job listings, simplifying career opportunity management.",
+      "technologies": ["TypeScript", "Node.js", "Express.js"],
+      "features": [
+        "Admin dashboard for job management",
+        "REST API for job listings",
+        "Open-source"
+      ],
+      "github": "https://github.com/shifat97/career-sync",
+      "demo": "",
+      "image": "/projects/career-sync.png"
+    },
+    {
+      "name": "Pulselink",
+      "description": "A doctor appointment booking system - Built a full-stack web application with Node.js, Express, and MongoDB, enabling patients to filter doctors, schedule appointments, and manage profiles. Implemented JWT authentication, Zod input validation, and rate limiting to ensure secure and reliable usage.",
+      "technologies": ["Node.js", "Express.js", "MongoDB", "React.js"],
+      "features": [
+        "Patient and doctor portals",
+        "Appointment scheduling",
+        "JWT authentication"
+      ],
+      "github": "https://github.com/shifat97/pulselink",
+      "demo": "",
+      "image": "/projects/pulselink.png"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "Programming Languages",
+        "skills": [
+          { "name": "JavaScript", "level": 90 },
+          { "name": "TypeScript", "level": 85 },
+          { "name": "Python", "level": 80 },
+          { "name": "C/C++", "level": 70 },
+          { "name": "Java", "level": 75 },
+          { "name": "C#", "level": 60 },
+          { "name": "SQL", "level": 80 }
+        ]
+      },
+      {
+        "name": "Frameworks & Technologies",
+        "skills": [
+          { "name": "React.js", "level": 90 },
+          { "name": "Node.js", "level": 85 },
+          { "name": "Express.js", "level": 85 },
+          { "name": "Tailwind CSS", "level": 90 },
+          { "name": "Bootstrap", "level": 80 }
+        ]
+      },
+      {
+        "name": "Databases",
+        "skills": [
+          { "name": "MongoDB", "level": 85 },
+          { "name": "PostgreSQL", "level": 80 },
+          { "name": "MySQL", "level": 75 }
+        ]
+      },
+      {
+        "name": "DevOps & Tools",
+        "skills": [
+          { "name": "Docker", "level": 70 },
+          { "name": "AWS", "level": 60 },
+          { "name": "Linux", "level": 70 },
+          { "name": "Git", "level": 90 },
+          { "name": "GitHub", "level": 90 },
+          { "name": "Postman", "level": 90 }
+        ]
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Daffodil International University",
+      "location": "Dhaka, Bangladesh",
+      "duration": "2020 - 2024",
+      "gpa": "3.58/4.0",
+      "relevant": [
+        "Data Structures",
+        "Algorithms",
+        "Networking",
+        "System Design",
+        "Database Management"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Duolingo English Test – CEFR Level B2 (Upper Intermediate)",
+      "issuer": "Duolingo",
+      "date": "",
+      "credentialId": "",
+      "url": ""
+    },
+    {
+      "name": "Python Programming with Hackerrank",
+      "issuer": "Hackerrank",
+      "date": "",
+      "credentialId": "",
+      "url": ""
+    },
+    {
+      "name": "Foundational C# with Microsoft",
+      "issuer": "Microsoft",
+      "date": "",
+      "credentialId": "",
+      "url": ""
+    }
+  ],
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Let's connect and discuss how I can contribute to your team.",
+    "email": "shifatbinreza2@gmail.com",
+    "phone": "+880 1794775275",
+    "location": "Dhaka, Bangladesh",
+    "availability": "Open to new opportunities"
+  }
+}
