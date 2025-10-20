@@ -299,7 +299,7 @@ const Education = () => {
                 value: "B.S. Degree",
                 label: "Computer Science",
               },
-              { icon: Award, value: "3+", label: "Certifications" },
+              { icon: Award, value: "5+", label: "Certifications" },
               { icon: Star, value: "3.58", label: "GPA Score" },
               { icon: CheckCircle, value: "100%", label: "Pass Rate" },
             ].map((stat, index) => (
